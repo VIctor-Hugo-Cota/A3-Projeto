@@ -1,4 +1,4 @@
-package metodos;
+package src;
 
 public class Funcionario {
 
