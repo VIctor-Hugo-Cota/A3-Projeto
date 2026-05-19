@@ -131,7 +131,7 @@ public class a3 {
                     break;
                 case 3:
                     // fecha o programa
-                    System.out.print("❌❌❌❌Sistema encerrado❌❌❌❌");
+                    System.out.print("Sistema encerrado");
                     ativo = false;
                     break;
 
